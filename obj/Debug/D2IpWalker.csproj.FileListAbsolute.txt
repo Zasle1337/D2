@@ -1,0 +1,13 @@
+C:\Users\alex\source\repos\D2IpWalker\D2IpWalker\bin\Debug\D2IpWalker.exe.config
+C:\Users\alex\source\repos\D2IpWalker\D2IpWalker\bin\Debug\D2IpWalker.exe
+C:\Users\alex\source\repos\D2IpWalker\D2IpWalker\bin\Debug\D2IpWalker.pdb
+C:\Users\alex\source\repos\D2IpWalker\D2IpWalker\obj\Debug\D2IpWalker.csprojAssemblyReference.cache
+C:\Users\alex\source\repos\D2IpWalker\D2IpWalker\obj\Debug\D2IpWalker.Form1.resources
+C:\Users\alex\source\repos\D2IpWalker\D2IpWalker\obj\Debug\D2IpWalker.Properties.Resources.resources
+C:\Users\alex\source\repos\D2IpWalker\D2IpWalker\obj\Debug\D2IpWalker.csproj.GenerateResource.cache
+C:\Users\alex\source\repos\D2IpWalker\D2IpWalker\obj\Debug\D2IpWalker.csproj.CoreCompileInputs.cache
+C:\Users\alex\source\repos\D2IpWalker\D2IpWalker\obj\Debug\D2IpWalker.exe
+C:\Users\alex\source\repos\D2IpWalker\D2IpWalker\obj\Debug\D2IpWalker.pdb
+C:\Users\alex\source\repos\D2IpWalker\D2IpWalker\bin\Debug\Eunoia.Net.Collections.dll
+C:\Users\alex\source\repos\D2IpWalker\D2IpWalker\obj\Debug\D2IpWalker.csproj.CopyComplete
+C:\Users\alex\source\repos\D2IpWalker\D2IpWalker\obj\Debug\D2IpWalker.Form2.resources
